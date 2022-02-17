@@ -1,0 +1,54 @@
+/* Обычный */
+@font-face {
+  font-family: "Rund Display";
+  font-style: normal;
+  font-weight: bold;
+  src: local("Rund Display"),
+    url("../fonts/RundDisplay-Bold.woff2") format("woff2"),
+    url("../fonts/RundDisplay-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Rund Display";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Rund Display"),
+    url("../fonts/RundDisplay-SemiBold.woff2") format("woff2"),
+    url("../fonts/RundDisplay-SemiBold.woff") format("woff");
+}
+@font-face {
+  font-family: "Rund Text";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Rund Text"),
+    url("../fonts/RundText-Regular.woff2") format("woff2"),
+    url("../fonts/RundText-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: "Rund Text";
+  font-style: normal;
+  font-weight: bold;
+  src: local("Rund Text"), url("../fonts/RundText-Bold.woff2") format("woff2"),
+    url("../fonts/RundText-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "Rund Text";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Rund Text"),
+    url("../fonts/RundText-SemiBold.woff2") format("woff2"),
+    url("../fonts/RundText-SemiBold.woff") format("woff");
+}
+@font-face {
+  font-family: "Rund Text";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Rund Text"), url("../fonts/RundText-Light.woff2") format("woff2"),
+    url("../fonts/RundText-Light.woff") format("woff");
+}
+@font-face {
+  font-family: "Rund Text";
+  font-style: italic;
+  font-weight: normal;
+  src: local("Rund Text"), url("../fonts/RundText-Italic.woff2") format("woff2"),
+    url("../fonts/RundText-Italic.woff") format("woff");
+}
